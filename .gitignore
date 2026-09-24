@@ -1,0 +1,11 @@
+# exclude all
+*
+
+# include directories
+!*/
+
+# include .git files
+!.git*
+
+# include text files
+!*.txt
