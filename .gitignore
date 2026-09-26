@@ -9,3 +9,4 @@
 
 # include text files
 !*.txt
+!*.md
